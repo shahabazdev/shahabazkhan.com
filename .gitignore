@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # pagefind
 public/pagefind
+
+# local-only Claude Code context (contains personal info)
+CLAUDE.md
