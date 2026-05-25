@@ -6,7 +6,7 @@ tags:
   - homelab
   - debugging
   - hardware
-draft: true
+draft: false
 ---
 
 I'm trying to build a homelab — Proxmox host, a dev VM, Tailscale for remote access, eventually a GPU node for local model inference. The plan needs exactly one piece of hardware to be alive: an old desktop tower that's been sitting in a corner for the better part of two years. I plugged it in, hit the power button, and nothing happened. Not "no display." Not "fans spin and stop." Nothing. No LEDs, no fan twitch, no PSU click.
